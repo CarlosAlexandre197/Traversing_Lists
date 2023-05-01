@@ -1,2 +1,2 @@
-# Percorrendo_Listas
-Percorrendo listas em Python.
+# Traversing_Lists
+Looping through lists in Jupyter Notebook.
